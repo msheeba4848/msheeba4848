@@ -65,25 +65,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="25" height="25" />
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="25" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" alt="Apache Airflow" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="25" height="25" />
 </p>
 
-<p align="left">
+-----
 
-  <!-- Plotly -->
-  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/dist/logo-text.png" alt="Plotly" width="25" height="25" />
-
-  <!-- Apache Airflow -->
-  <img src="https://airflow.apache.org/images/logo.svg" alt="Apache Airflow" width="25" height="25" />
-</p>
-
-
+<h2> My Stats: </h2>
 
 <!--- this is for the stats section --->
 <img src="https://github-readme-stats.vercel.app/api?username=msheeba4848&show_icons=true&count_private=true" alt="msheeba4848 GitHub Stats">
