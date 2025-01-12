@@ -2,7 +2,7 @@
 
 ----
 
-<p>I'm currently a graduate student at Georgetown University with 2+ experience as a <strong>Data Scientist</strong>, <strong>Data Engineer</strong> and <strong> Business Analyst </strong> within the domains of Venture Capital, HVAC, Finance, and Non-Profit, currently based in Washington DC. </p>
+<p>I'm currently a graduate student at Georgetown University with a Masters in Data Science and Analytics and 2+ years of experience as a <strong>Data Scientist</strong>, <strong>Data Engineer</strong> and <strong> Business Analyst </strong> within the domains of Venture Capital, HVAC, Finance, and Non-Profit, currently based in Washington DC. </p>
 
 <p> You'll find me either aggressively taking care of my plants, attempt to cook new dishes (Pavlova was my most recent!) or working on interesting projects with impact and collaboration</p>
 
