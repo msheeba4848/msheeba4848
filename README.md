@@ -40,6 +40,16 @@
 
 ----
 
+<h2> Latest Blog Posts <a href="https://medium.com/@moghalsheeba"> <h2>
+<ul>
+  <li> Why I Ditched Templates to Build My Own Portfolio <a href="https://moghalsheeba.medium.com/why-i-ditched-templates-to-build-my-own-portfolio-abc1d26d13f4">
+  <li> My 10 Ear Piercings Hurt Less Than Training a Model on Massive Data Without GPUs — Here is How I Survived <a href="https://moghalsheeba.medium.com/my-10-ear-piercings-hurt-less-than-training-a-model-on-massive-data-without-gpus-heres-how-i-103f6cbb7f7d">
+  <li> How to do a PROPER Literature Review : Beyond just Google Scholar <a href="https://moghalsheeba.medium.com/how-to-do-a-proper-literature-review-b2a9aca62173">
+</ul>
+
+
+
+---
 <h2> Tools I Use:</h2>
 <p align="left">
   <!-- Tools -->
